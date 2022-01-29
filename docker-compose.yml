@@ -1,0 +1,23 @@
+version: "3"
+services:
+  client:
+    image: "karolwos/zadanie1:fib-client"
+    mem_limit: 128m
+    hostname: client
+  server:
+    image: "karolwos/zadanie1:fib-server"
+    mem_limit: 128m
+    hostname: api
+  worker:
+    image: "karolwos/zadanie1:fib-worker"
+    mem_limit: 128m
+    hostname: worker
+    environment:
+      - REDIS_HOST=$REDIS_HOST
+      - REDIS_PORT=$REDIS_PORT
+  nginx:
+    image: "karolwos/zadanie1:fib-nginx"
+    mem_limit: 128m
+    hostname: nginx
+    ports:
+      - "80:80"
