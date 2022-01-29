@@ -24,4 +24,4 @@ Uruchamianie
 ```
 \
 
-    ![Test Image 2](https://github.com/broffy/Project1_Cloud/blob/main/client/src/working.png)\
+    ![Test Image 2](https://github.com/karolwos/zadanie1/blob/main/client/src/screen.png)\
