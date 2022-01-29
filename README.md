@@ -1,4 +1,4 @@
-# Project1_Cloud
+# Zadanie1
 
 
 Usluga zostala opracowana na bazie laboratorium 9 \
@@ -24,4 +24,4 @@ Uruchamianie
 ```
 \
 
-    [Test Image 2](https://github.com/karolwos/zadanie1/blob/main/client/src/screen.png)
+    ![Test Image 2](https://github.com/karolwos/zadanie1/blob/main/client/src/screen.png)
