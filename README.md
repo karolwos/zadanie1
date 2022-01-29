@@ -12,7 +12,7 @@ Usluga zostala opracowana na bazie laboratorium 9 \
       
 Uruchamianie
 ```
-1.git clone https://github.com/broffy/Project1_Cloud.git 
+1.git clone https://github.com/karolwos/zadanie1.git 
 ```
 
 ```
