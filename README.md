@@ -24,5 +24,5 @@ Uruchamianie
 ```
 
 
-dupa
+Uruchomiony serwer Js
     ![Test Image 2](https://github.com/karolwos/zadanie1/blob/main/client/src/screen.png)
